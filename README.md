@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of captchala/flarum.** Not for installation: use [Packagist](https://packagist.org/packages/captchala/flarum) or the [upstream repository](https://github.com/Captcha-La/captchala-flarum).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/captchala-flarum/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0.0`
+**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/captchala-flarum/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2026-05-08 | `^2.0.0` | [Browse](https://github.com/flarchive/captchala-flarum/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-06-20 | `^2.0.0` | [Browse](https://github.com/flarchive/captchala-flarum/tree/archive/v1.0.1) |
+| `v1.0.2` | 2026-06-20 | `^2.0.0` | [Browse](https://github.com/flarchive/captchala-flarum/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/captchala-flarum.json](https://github.com/flarchive/archive-index/blob/main/packages/captchala-flarum.json)
 
